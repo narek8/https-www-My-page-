@@ -1,0 +1,24 @@
+main img{
+	position: relative;
+	left:400px;
+	z-index:5;
+	height: 150px;
+	width: 100px;
+	border-top-left-radius: 40px;
+	border-bottom-left-radius: 40px;
+	
+}
+main span{
+	height: 200px;
+	width: 400px;
+}
+
+main{
+	background-color: rgba(255,269,158,0.7);
+	border: 2px solid #ffffb8;
+	border-radius: 20px;
+}
+
+#countryDiv{
+	background-color: rgba(255,255,184,0.8)
+}
